@@ -1,0 +1,4 @@
+10-11-2025 17:01:45:381 Phase1_TSAE [TRACE] : Log.add: Added first operation (seq 0) from localhost:9000
+10-11-2025 17:01:45:385 Phase1_TSAE [TRACE] : Updating the TimestampVectorInserting with the timestamp: localhost:9000:   0
+10-11-2025 17:02:29:341 Phase1_TSAE [TRACE] : Log.add: Added sequential operation from localhost:9000: localhost:9000:   1
+10-11-2025 17:02:29:341 Phase1_TSAE [TRACE] : Updating the TimestampVectorInserting with the timestamp: localhost:9000:   1
